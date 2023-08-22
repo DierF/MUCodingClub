@@ -1,3 +1,4 @@
 Problem A: https://open.kattis.com/problems/hello
 Problem B: https://open.kattis.com/problems/mixedfractions
 Problem C: https://open.kattis.com/problems/hardwoodspecies
+Problem D: https://open.kattis.com/problems/ladice
