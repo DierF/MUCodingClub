@@ -1,4 +1,4 @@
-Problem A: https://open.kattis.com/problems/sorttwonumbers
-Problem B: https://open.kattis.com/problems/fizzbuzz
-Problem C: 
-Problem D: 
+Problem A: https://open.kattis.com/problems/fizzbuzz
+Problem B: https://open.kattis.com/problems/drmmessages
+Problem C: https://open.kattis.com/problems/synchronizinglists
+Problem D: https://open.kattis.com/problems/icecream2
