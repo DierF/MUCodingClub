@@ -1,0 +1,4 @@
+Problem A: https://open.kattis.com/problems/classfieldtrip
+Problem B: https://open.kattis.com/problems/tornbygge
+Problem C: https://open.kattis.com/problems/quickbrownfox
+Problem D: https://open.kattis.com/problems/houseofcards
