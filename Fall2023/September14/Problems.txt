@@ -1,0 +1,4 @@
+Problem A: https://open.kattis.com/problems/pizza2
+Problem B: https://open.kattis.com/problems/permutedarithmeticsequence
+Problem C: https://open.kattis.com/problems/sodaslurper
+Problem D: https://open.kattis.com/problems/fire2
