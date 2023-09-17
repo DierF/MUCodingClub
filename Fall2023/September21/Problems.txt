@@ -1,4 +1,4 @@
 Problem A: https://open.kattis.com/problems/nodup
 Problem B: https://open.kattis.com/problems/vauvau
 Problem C: https://open.kattis.com/problems/headguard
-Problem D: 
+Problem D: https://open.kattis.com/problems/traffic
