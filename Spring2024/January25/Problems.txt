@@ -1,0 +1,2 @@
+Problem A: https://open.kattis.com/problems/echoechoecho
+Problem B: https://open.kattis.com/problems/heimavinna
