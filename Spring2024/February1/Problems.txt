@@ -1,0 +1,2 @@
+Problem A: https://open.kattis.com/problems/babybites
+Problem B: https://open.kattis.com/problems/kcuddlanod
