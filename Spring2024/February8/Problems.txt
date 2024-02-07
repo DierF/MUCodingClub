@@ -1,0 +1,2 @@
+Problem A: https://open.kattis.com/problems/deathknight
+Problem B: https://open.kattis.com/problems/veci
