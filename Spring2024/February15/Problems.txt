@@ -1,0 +1,2 @@
+Problem A: https://open.kattis.com/problems/bus
+Problem B: https://open.kattis.com/problems/chocolatechipfabrication
