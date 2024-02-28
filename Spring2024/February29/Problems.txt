@@ -1,0 +1,2 @@
+Problem A: https://open.kattis.com/problems/jobexpenses
+Problem B: https://open.kattis.com/problems/dartscores
