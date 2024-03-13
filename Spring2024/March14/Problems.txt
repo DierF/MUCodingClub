@@ -1,0 +1,2 @@
+Problem A: https://open.kattis.com/problems/eyeofsauron
+Problem B: https://open.kattis.com/problems/saxophone
