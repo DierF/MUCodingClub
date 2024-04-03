@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/shandy
+Problem B: https://open.kattis.com/problems/permutationdescent
+Problem C: https://open.kattis.com/problems/divisors
