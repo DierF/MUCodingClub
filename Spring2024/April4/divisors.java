@@ -13,12 +13,12 @@ public class divisors
 
     public static class PrimeFactorization 
     {
-        public static final int FACTORSIZE = primes.length;// Unused but would be better design.
+        public static final int FACTORSIZE = primes.length;
         public int[] factors;
 
         public PrimeFactorization()
         {
-            factors = new int[primes.length];
+            factors = new int[FACTORSIZE];
         }
 
         public PrimeFactorization(PrimeFactorization other)// Unused but logical that it might exist.
@@ -34,7 +34,7 @@ public class divisors
 
         public void product(PrimeFactorization other)
         {
-            for (int factorIndex = 0; factorIndex < primes.length; factorIndex++)
+            for (int factorIndex = 0; factorIndex < FACTORSIZE; factorIndex++)
             {
                 factors[factorIndex] += other.factors[factorIndex];
             }
@@ -42,7 +42,7 @@ public class divisors
 
         public void quotient(PrimeFactorization other)
         {
-            for (int factorIndex = 0; factorIndex < primes.length; factorIndex++)
+            for (int factorIndex = 0; factorIndex < FACTORSIZE; factorIndex++)
             {
                 factors[factorIndex] -= other.factors[factorIndex];
             }
@@ -51,7 +51,7 @@ public class divisors
         public long factorCount()
         {
             long count = 1;
-            for (int factorIndex = 0; factorIndex < primes.length; factorIndex++)
+            for (int factorIndex = 0; factorIndex < FACTORSIZE; factorIndex++)
             {
                 count *= factors[factorIndex] + 1;
             }
