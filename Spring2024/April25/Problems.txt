@@ -7,3 +7,5 @@ Problem F (Zac)     : https://open.kattis.com/problems/towers
 Problem G (Evan)    : https://open.kattis.com/problems/aa
 Problem H (Tristan) : https://open.kattis.com/problems/acceptableseatingarrangements
 Problem I (John)    : https://open.kattis.com/problems/1dfroggerhard
+Problem J (Evan)    : https://open.kattis.com/problems/interactivetictactoe
+Problem K (Evan)    : https://open.kattis.com/problems/dictionary
