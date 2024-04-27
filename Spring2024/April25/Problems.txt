@@ -4,7 +4,7 @@ Problem C (Marshall): https://open.kattis.com/problems/streetsbehind
 Problem D (Marshall): https://open.kattis.com/problems/exponentexchange
 Problem E (Marshall): https://open.kattis.com/problems/treegenerator
 Problem F (Zac)     : https://open.kattis.com/problems/towers
-Problem G (Evan)    : https://open.kattis.com/problems/aa
+(solved)Problem G (Evan)    : https://open.kattis.com/problems/aa
 Problem H (Tristan) : https://open.kattis.com/problems/acceptableseatingarrangements
 Problem I (John)    : https://open.kattis.com/problems/1dfroggerhard
 Problem J (Evan)    : https://open.kattis.com/problems/interactivetictactoe
