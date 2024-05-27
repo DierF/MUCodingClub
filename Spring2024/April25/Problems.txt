@@ -1,4 +1,4 @@
-Problem A (Marshall): https://open.kattis.com/problems/eastereggs
+(solved)Problem A (Marshall): https://open.kattis.com/problems/eastereggs
 Problem B (Marshall): https://open.kattis.com/problems/trick
 Problem C (Marshall): https://open.kattis.com/problems/streetsbehind
 Problem D (Marshall): https://open.kattis.com/problems/exponentexchange
