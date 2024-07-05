@@ -2,7 +2,7 @@
 (solved)Problem B (Marshall): https://open.kattis.com/problems/trick
 (solved)Problem C (Marshall): https://open.kattis.com/problems/streetsbehind
 (solved)Problem D (Marshall): https://open.kattis.com/problems/exponentexchange
-Problem E (Marshall): https://open.kattis.com/problems/treegenerator
+(solved)Problem E (Marshall): https://open.kattis.com/problems/treegenerator
 Problem F (Zac)     : https://open.kattis.com/problems/towers
 (solved)Problem G (Evan)    : https://open.kattis.com/problems/aa
 (solved)Problem H (Tristan) : https://open.kattis.com/problems/acceptableseatingarrangements
