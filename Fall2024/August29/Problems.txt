@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/hello
+Problem B: https://open.kattis.com/problems/addtwonumbers
+Problem C: https://open.kattis.com/problems/eyeofsauron
