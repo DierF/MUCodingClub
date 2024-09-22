@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/countthevowels
+Problem B: https://open.kattis.com/problems/undeadoralive
+Problem C: https://open.kattis.com/problems/busyschedule
