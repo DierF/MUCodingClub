@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/trik
+Problem B: https://open.kattis.com/problems/zamka
+Problem C: https://open.kattis.com/problems/tictacstate
