@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/isithalloween
+Problem B: https://open.kattis.com/problems/patuljci
+Problem C: https://open.kattis.com/problems/plantingtrees
