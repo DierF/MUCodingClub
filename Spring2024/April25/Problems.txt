@@ -1,11 +1,11 @@
-(solved)Problem A (Marshall): https://open.kattis.com/problems/eastereggs
-(solved)Problem B (Marshall): https://open.kattis.com/problems/trick
-(solved)Problem C (Marshall): https://open.kattis.com/problems/streetsbehind
-(solved)Problem D (Marshall): https://open.kattis.com/problems/exponentexchange
-(solved)Problem E (Marshall): https://open.kattis.com/problems/treegenerator
-Problem F (Zac)     : https://open.kattis.com/problems/towers
-(solved)Problem G (Evan)    : https://open.kattis.com/problems/aa
-(solved)Problem H (Tristan) : https://open.kattis.com/problems/acceptableseatingarrangements
-(solved)Problem I (John)    : https://open.kattis.com/problems/1dfroggerhard
-(solved)Problem J (Evan)    : https://open.kattis.com/problems/interactivetictactoe
-Problem K (Evan)    : https://open.kattis.com/problems/dictionary
+Problem A: https://open.kattis.com/problems/eastereggs
+Problem B: https://open.kattis.com/problems/trick
+Problem C: https://open.kattis.com/problems/streetsbehind
+Problem D: https://open.kattis.com/problems/exponentexchange
+Problem E: https://open.kattis.com/problems/treegenerator
+Problem F: https://open.kattis.com/problems/towers
+Problem G: https://open.kattis.com/problems/aa
+Problem H: https://open.kattis.com/problems/acceptableseatingarrangements
+Problem I: https://open.kattis.com/problems/1dfroggerhard
+Problem J: https://open.kattis.com/problems/interactivetictactoe
+Problem K: https://open.kattis.com/problems/dictionary
