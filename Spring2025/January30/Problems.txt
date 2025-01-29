@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/autori
+Problem B: https://open.kattis.com/problems/stafsetning
+Problem C: https://open.kattis.com/problems/riddleofthesphinx
