@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/sibice
+Problem B: https://open.kattis.com/problems/sumsofprimes
+Problem C: https://open.kattis.com/problems/diversecontest
