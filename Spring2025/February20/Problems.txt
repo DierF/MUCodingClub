@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/barcelona
+Problem B: https://open.kattis.com/problems/oddmanout
+Problem C: https://open.kattis.com/problems/jibjob
