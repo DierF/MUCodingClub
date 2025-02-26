@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/tarifa
+Problem B: https://open.kattis.com/problems/siffrid
+Problem C: https://open.kattis.com/problems/runningsteps
