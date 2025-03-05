@@ -1,0 +1,4 @@
+Problem A: https://open.kattis.com/problems/airfaregrants
+Problem B: https://open.kattis.com/problems/anypythagorean
+Problem C: https://open.kattis.com/problems/mousepursuit
+Problem D: https://open.kattis.com/problems/buriedtreasure2
