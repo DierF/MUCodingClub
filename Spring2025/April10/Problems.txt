@@ -1,0 +1,3 @@
+Problem A: https://open.kattis.com/problems/knotknowledge
+Problem B: https://open.kattis.com/problems/johndillermand
+Problem C: https://open.kattis.com/problems/fractionallotion
