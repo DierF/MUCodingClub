@@ -7,7 +7,7 @@ import java.util.Queue;
 
 public class continuousmedian
 {
-    public static void main(String[] args) throws IOException
+    public static void main(String[] banana) throws IOException
     {
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
         

@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class consecutiveprimesums
 {
-    public static void main(String[] args)
+    public static void main(String[] banana)
     {
         Scanner console = new Scanner(System.in);
 
