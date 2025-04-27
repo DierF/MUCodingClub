@@ -16,6 +16,7 @@ public class andvag
         {
             parent[i] = i;
         }
+
         int[] filter = new int[n];
 
         for (int i = 0; i < m; i++)
